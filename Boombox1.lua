@@ -126,7 +126,7 @@ local function BYNMLN_fake_script() -- TextButton.PlaySound
 			end)
 			
 			if success then
-				if info.AssetTypeId == Enum.AssetType.Audio then
+				if info.AssetTypeId == 3 then
 					play(soundId, info)
 				else
 					warnPlr("The entered ID is not an audio asset.")
