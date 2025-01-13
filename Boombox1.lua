@@ -1,3 +1,4 @@
+print("Loaded!")
 task.wait(5)
 
 --Boombox appearance:
