@@ -1,3 +1,5 @@
+task.wait(5)
+
 --Boombox appearance:
 local tool = Instance.new("Tool")
 local handle = Instance.new("Part")
